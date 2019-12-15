@@ -1,0 +1,21 @@
+date	name	filament	days	hours 	mins	z offset	self test passed	belt x	belt y	usage hrs (calc) 	notes
+2019-10-24	Prusa 01	5118.88	327	13	50		y			7861.8	
+2019-10-24	Prusa 02	5855.92	243	2	52		y			5834.9	
+2019-10-24	Prusa 03	3490.8	350	0	58		y			8401.0	
+2019-10-24	Prusa 05	1147.71	41	15	17		y			999.3	
+2019-11-07	Prusa 01	5122.33	327	21	6	-0.990				7869.1	
+2019-11-07	Prusa 02	5855.92	243	2	52	-1.315				5834.9	
+2019-11-07	Prusa 03	3491.11	350	1	42	-0.815				8401.7	
+2019-11-07	Prusa 04	2513.51	210	8	44	1.460				5048.7	
+2019-11-07	Prusa 05	1157.89	41	20	18	-1.205				1004.3	Y axes tightned, didn't record after
+2019-11-14	Prusa 01	5132.33	327	22	16	-0.990	y			7870.3	thermal runaway reported again
+2019-11-14	Prusa 02	5861.74	243	4	11	-1.315	Y			5836.2	
+2019-11-14	Prusa 03	3491.11	350	1	42	-0.815	Y	289	275	8401.7	loose pulley reported, these are numbers after Y tightened 
+2019-11-14	Prusa 04	2513.51	210	8	44	-1.460	Y	275	290	5048.7	
+2019-11-14	Prusa 05	1198.95	43	6	47	-1.205	Y	266	283	1038.8	
+2019-11-23	Prusa 03							290			loose pulley reported, these are numbers after X tightened
+2019-12-14	Prusa 01	5171.24	318	10	11					7642.2	
+2019-12-14	Prusa 02	5918.05	244	21	14					5877.2	
+2019-12-14	Prusa 03	3530.41	350	14	56					8414.9	
+2019-12-14	Prusa 04	2542.19	267	12	48					6420.8	
+2019-12-14	Prusa 05	1354.43	47	18	53					1146.9	
