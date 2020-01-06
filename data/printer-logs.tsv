@@ -13,9 +13,13 @@ date	name	filament	days	hours 	mins	z offset	self test passed	belt x	belt y	usag
 2019-11-14	Prusa 03	3491.11	350	1	42	-0.815	Y	289	275	8401.7	loose pulley reported, these are numbers after Y tightened 
 2019-11-14	Prusa 04	2513.51	210	8	44	-1.460	Y	275	290	5048.7	
 2019-11-14	Prusa 05	1198.95	43	6	47	-1.205	Y	266	283	1038.8	
-2019-11-23	Prusa 03							290			loose pulley reported, these are numbers after X tightened
-2019-12-14	Prusa 01	5171.24	318	10	11					7642.2	
+2019-12-14	Prusa 01	5171.24	328	10	11					7882.2	was this 318 days or 328 days? since last few 327 i'm guessing 328
 2019-12-14	Prusa 02	5918.05	244	21	14					5877.2	
 2019-12-14	Prusa 03	3530.41	350	14	56					8414.9	
 2019-12-14	Prusa 04	2542.19	267	12	48					6420.8	
 2019-12-14	Prusa 05	1354.43	47	18	53					1146.9	
+2020-01-04	Prusa 01	5393.9	324	15	15						
+2020-01-04	Prusa 02	6001.66	247	23	16						
+2020-01-04	Prusa 03	3637.29	357	16	30						
+2020-01-04	Prusa 04	2544.46	267	14	39						
+2020-01-04	Prusa 05	1463.3	51	12	50						
